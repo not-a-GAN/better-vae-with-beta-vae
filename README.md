@@ -7,7 +7,7 @@ The weights and data used in this experiment can be downloaded from the [release
 page. Place the downloaded weights into the data folder of this repository and unzip them: the scripts expect to find
 these weights there. 
 
-> **Note, the code that generated these weights are from the `quant` branch.** 
+> **Note, the code that generated these weights are from the `qual` branch.** 
 
 # Reproducing results
 
