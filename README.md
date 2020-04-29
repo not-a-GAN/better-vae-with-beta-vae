@@ -8,9 +8,12 @@ can't even tell a chair is still a chair when you rotate it a little!" Lone
 behold his confidence was unjustified. A revolution had erupted in the town
 below, beta-VAE had been proposed. Disentanglement knew he was doomed, so he
 proposed a deal to the townspeople: do not fight me, let me fight
-Reconstruction!  Reconstruction and Disentanglement fought and fought and after
+Reconstruction!
+
+Reconstruction and Disentanglement fought and fought and after
 years of fighting there was no clear winner. The people grew tired of the
 fighting and having to constantly decide which leader they wanted to approach.
+
 They wondered and wondered how they could brocker peace. Finally, peace was
 finally struck in 2016 when the community invented GANs. They said to their
 leaders: "Reconstruction and Disentanglement, we no longer have to choose
