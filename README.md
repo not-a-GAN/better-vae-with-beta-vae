@@ -5,7 +5,9 @@ Group 5 [beta VAE](https://openreview.net/forum?id=Sy2fzU9gl) paper reproduction
 
 The weights and data used in this experiment can be downloaded from the [releases](https://github.com/not-a-GAN/better-vae-with-beta-vae/releases)
 page. Place the downloaded weights into the data folder of this repository and unzip them: the scripts expect to find
-these weights there.
+these weights there. 
+
+> **Note, the code that generated these weights are from the `quant` branch.** 
 
 # Reproducing results
 
